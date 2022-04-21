@@ -1,0 +1,16 @@
+a{
+background-color: rgb(198, 198, 198);
+border-radius: 2px;
+color: white;
+padding: 3px;
+text-decoration: none;
+}
+
+#JS23_div_h, #JS23_div_f {
+ background-color: rgb(236, 133, 133);
+ border-radius: 2px;
+ color: rgb(254, 254, 254);
+ height: 20px;
+ width: 250px;
+ }
+ 
